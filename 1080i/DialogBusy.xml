@@ -16,7 +16,7 @@
             <align>center</align>
             <textcolor>darkgray</textcolor>
             <font>shelf</font>
-            <label>$INFO[ListItem.Label,Loading ]</label>
+            <label>$VAR[loadname]</label>
         </control>
         <control type="multiimage" description="Busy animation">
             <centerleft>960</centerleft>
