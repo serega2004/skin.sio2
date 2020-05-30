@@ -1,0 +1,223 @@
+# XBMC Media Center language file
+# Addon Name: SiO2
+# Addon id: skin.SiO2
+# Addon version: 4.0.1
+# Addon Provider: FastColors
+# Translators:
+# Translators:
+# fastcolors <fastcolors@gmail.com>, 2013
+# Luca <inactive+lucanoid@transifex.com>, 2013
+# serega2004, 2020
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Skin SiO2\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2018-08-13 12:53+0000\n"
+"Last-Translator: serega2004\n"
+"Language-Team: Russian (http://www.transifex.com/fastcolors/sio2-1/language/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgctxt "#31000"
+msgid "Page"
+msgstr "Страница"
+
+msgctxt "#31001"
+msgid "Items"
+msgstr "Объекты"
+
+msgctxt "#31002"
+msgid "Banners"
+msgstr "Баннеры"
+
+msgctxt "#31004"
+msgid "Visualization Presets"
+msgstr "Параметры визуализации"
+
+msgctxt "#31005"
+msgid "End Time"
+msgstr "Время окончания"
+
+msgctxt "#31006"
+msgid "Last Added"
+msgstr "Недавно добавленные"
+
+msgctxt "#31007"
+msgid "Last Started"
+msgstr "Недавно начатые"
+
+msgctxt "#31009"
+msgid "Recently Added Episodes"
+msgstr "Недавно добавленные эпизоды"
+
+msgctxt "#31010"
+msgid "Open playlist"
+msgstr "Открыть плейлист"
+
+msgctxt "#31011"
+msgid "Save playlist"
+msgstr "Сохранить плейлист"
+
+msgctxt "#31012"
+msgid "Clear playlist"
+msgstr "Очистить плейлист"
+
+msgctxt "#31013"
+msgid "Available Audio"
+msgstr "Доступные аудиозаписи"
+
+msgctxt "#31014"
+msgid "Current Playlist"
+msgstr "Текущий плейлист"
+
+msgctxt "#31016"
+msgid "Last Updated"
+msgstr "Недавно обновлённые"
+
+msgctxt "#31017"
+msgid "Show Clock"
+msgstr "Показать часы"
+
+msgctxt "#31019"
+msgid "If You remove this link You won't be able to access settings anymore."
+msgstr "Если вы удалите ссылку, Вы больше не сможете получить доступ к настройкам."
+
+msgctxt "#31021"
+msgid "Memory Used:"
+msgstr "Занято:"
+
+msgctxt "#31023"
+msgid "Fanart image[CR][CR]Unavailable[CR][CR] Click button to set"
+msgstr "Изображение фанарта[CR][CR]Недоступно[CR][CR]Нажмите, чтобы установить"
+
+msgctxt "#31024"
+msgid "Aired"
+msgstr "В эфире"
+
+msgctxt "#31025"
+msgid "Playlist Options"
+msgstr "Настройки плейлиста"
+
+msgctxt "#31026"
+msgid "Arial based"
+msgstr "На основе Arial"
+
+msgctxt "#31029"
+msgid "Favourite"
+msgstr "Избранное"
+
+msgctxt "#31032"
+msgid "Log Off"
+msgstr "Завершение сеанса"
+
+msgctxt "#31036"
+msgid "Reset ALL skin settings to default"
+msgstr "Сбросить настройки обложки"
+
+msgctxt "#31037"
+msgid "Add-ons manager"
+msgstr "Менеджер дополнений"
+
+msgctxt "#31038"
+msgid "min"
+msgstr "min"
+
+msgctxt "#31040"
+msgid "Shelf items"
+msgstr "Объекты на полке"
+
+msgctxt "#31041"
+msgid "Active Scrollbars"
+msgstr "Активные полосы прокрутки"
+
+msgctxt "#31044"
+msgid "View options dialog"
+msgstr "Просмотреть диалог настроек"
+
+msgctxt "#31045"
+msgid "Use Fanart for Episodes on Shelf"
+msgstr "Использовать фанарт для эпизодов на полке"
+
+msgctxt "#31046"
+msgid "In Progress"
+msgstr "В процессе"
+
+msgctxt "#31048"
+msgid "Up Next"
+msgstr "Далее"
+
+msgctxt "#31049"
+msgid "Home menu Power button function"
+msgstr "Кнопка питания"
+
+msgctxt "#31050"
+msgid "Choose from menu"
+msgstr "Выбрать из меню"
+
+msgctxt "#31051"
+msgid "Custom Shelf Shortcuts"
+msgstr "Пользовательские ярлыки полки"
+
+msgctxt "#31052"
+msgid "Home Page Customizer"
+msgstr "Редактор домашней страницы"
+
+msgctxt "#31053"
+msgid "Link For Music Icon"
+msgstr "Ссылка для значка песни"
+
+msgctxt "#31055"
+msgid "Fullscreen player"
+msgstr "Полноэкранный проигрыватель"
+
+msgctxt "#31056"
+msgid "Change Icon"
+msgstr "сменить значок"
+
+msgctxt "#31057"
+msgid "Replace Item"
+msgstr "Заменить объект"
+
+msgctxt "#31059"
+msgid "LiveTV"
+msgstr "LiveTv"
+
+msgctxt "#31060"
+msgid "Add"
+msgstr "Добавить"
+
+msgctxt "#31061"
+msgid "Cinema Experience"
+msgstr "Опыт кино"
+
+msgctxt "#31062"
+msgid "Select Lyrics Add-on"
+msgstr "Выбрать дополнение текста"
+
+msgctxt "#31064"
+msgid "Fullscreen"
+msgstr "Полноэкранный режим"
+
+msgctxt "#31065"
+msgid "Started Movies"
+msgstr "Начатые фильмы"
+
+msgctxt "#31066"
+msgid "Recommended Episodes"
+msgstr "Рекомендуемые эпизоды"
+
+msgctxt "#31067"
+msgid "Top Albums"
+msgstr "Топ альбомы"
+
+msgctxt "#31068"
+msgid "Toggle Debug"
+msgstr "Переключить отладку"
+
+msgctxt "#31422"
+msgid "Movie Releases"
+msgstr "Выпуски фильмов"
