@@ -6,8 +6,7 @@
 # Translators:
 # Translators:
 # fastcolors <fastcolors@gmail.com>, 2013
-# Luca <inactive+lucanoid@transifex.com>, 2013
-# serega2004, 2020
+# serega2004 <chess2504@gmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: Kodi Skin SiO2\n"
