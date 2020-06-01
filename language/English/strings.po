@@ -216,7 +216,7 @@ msgstr "EPG"
 
 msgctxt "#31059"
 msgid "LiveTV"
-msgstr "LiveTv"
+msgstr "LiveTV"
 
 msgctxt "#31060"
 msgid "Add"
